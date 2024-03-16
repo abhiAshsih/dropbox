@@ -1,0 +1,7 @@
+<settings>
+    <!--DO NOT DELETE THIS FILE-->
+    <!--LOCAL-->
+    <!--<localRepository>$HOME/.m2/repository</localRepository>-->
+    <!--EKS-->
+    <localRepository>/.m2/repository</localRepository>
+</settings>
